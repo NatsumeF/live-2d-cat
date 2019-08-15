@@ -31,7 +31,7 @@
                 "cat_canvas_live",
                 Math.random() > 0.5 ? "https://cdn.jsdelivr.net/gh/QiShaoXuan/live2DModel@1.0.0/live2d-widget-model-hijiki/assets/hijiki.model.json"  :   "https://cdn.jsdelivr.net/gh/QiShaoXuan/live2DModel@1.0.0/live2d-widget-model-tororo/assets/tororo.model.json"
             );
-        },15000)
+        },17000)
 
     }
     init()
